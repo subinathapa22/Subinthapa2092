@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **flutter developer**
 
-- 📫 How to reach me **subinthapa5510@gmail.com**
+- 📫 How to reach me **subinathapa5510@gmail.com**
 
 - ⚡ Fun fact **I am Funny **
 
